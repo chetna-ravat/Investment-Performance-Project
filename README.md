@@ -15,7 +15,7 @@ source env/bin/activate
 ``
 
 4. Install required python dependencies
-```
+```shell
 pip install -r requirements.txt
 ```
 
