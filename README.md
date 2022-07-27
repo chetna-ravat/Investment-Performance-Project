@@ -12,7 +12,7 @@ python3.7 -m venv env
 3. Activate virtual environment
 ```shell
 source env/bin/activate
-``
+```
 
 4. Install required python dependencies
 ```shell
