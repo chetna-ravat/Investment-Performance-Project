@@ -1,7 +1,7 @@
-**Investment Performance Project**
+# Investment Performance Project
 
 
-**Running Project**
+## Running Project
 1. Clone git repository
 
 2. Create virtual environemt
@@ -24,12 +24,12 @@ pip install -r requirements.txt
 python3.7 investment_performance.py
 ```
 
-**Customize potfolio**
+### Customize potfolio
 
 User can update/change the portfolio based on their choice of stocks.
 To update portfolio edit `portfolio.txt` file.
 
-**Customize benchmark**
+### Customize benchmark
 
 User can update/change the benchmark based on their choice of index.
 To update benchmark edit `benchmark.txt` file.
