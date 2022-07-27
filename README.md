@@ -1,4 +1,4 @@
-Investment Performance Project
+**Investment Performance Project**
 
 
 **Running Project**
@@ -26,5 +26,12 @@ python3.7 investment_performance.py
 
 **Customize potfolio**
 
-You can update/change the portfolio based on your choice of stocks.
+User can update/change the portfolio based on their choice of stocks.
 To update portfolio edit `portfolio.txt` file.
+
+**Customize benchmark**
+
+User can update/change the benchmark based on their choice of index.
+To update benchmark edit `benchmark.txt` file.
+
+
